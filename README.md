@@ -1,3 +1,6 @@
+
+
+
 ![study](https://github.com/user-attachments/assets/a3d8d06f-3df2-4893-b406-20e8d0bcde8a)<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4b0081&animation=fadeIn&textBg=false&fontColor=4b0081&fontSize=55&fontAlign=50&descAlign=60&section=header.png"  width="1000"  />
 </p>
@@ -38,7 +41,20 @@
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=98&color=4b0081&textBg=false&section=footer&reversal=true.png" width="100%" />
 
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <h3>🌙 Olá! Eu sou Ana Hillary</h3>
+        <p><br>
+        </p>
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/c4badf5f-e585-4208-87e2-13ea619badab" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
@@ -53,6 +69,3 @@
  
 
 <p align="center">
-  <img src=" ![Uploading study.gif…]()type=waving&height=110&color=4b0081&animation=fadeIn&textBg=false&fontColor=4b0081&fontSize=55&fontAlign=50&descAlign=60&section=header.png"  width="200"  />
-</p>
-
