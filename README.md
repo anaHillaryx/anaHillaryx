@@ -4,17 +4,19 @@
 <section>
   <p align="center">
   <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-     🌙 Sobre mim
+      Sobre mim🌙
   </h2>
 </p>
-
   <p align="center">
   <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 🎓 Atualmente sou estudante do Instituto Federal do Ceará, onde curso Informática.
-
 💻 sempre em aprendizado constante. Com foco em futuramente me tornar uma desenvolvedora.
 </p>
 </section>
+
+
+
+
   
 
 
