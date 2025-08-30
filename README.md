@@ -14,7 +14,7 @@
 💻 sempre em aprendizado constante. Com foco em futuramente me tornar uma desenvolvedora.
 </p>
 </section>
-<h2 align="center">🌙 Entre em Contato Comigo 🌙</h2>
+
 
 
 
@@ -26,8 +26,9 @@
   <img src="https://i.imgur.com/fsdxSkK.png"  width="200"  />
 </p>
 
+<h2 align="center">🌙 Entre em Contato Comigo 🌙</h2>
 <p align="center">
-  📧 <strong>Email:</strong> <a href="mailto:hillary.rodrigues63@aluno.ifce.edu.br">seu-email@email.com</a> <br>
+  📧 <strong>Email:</strong> <a href="mailto:hillary.rodrigues63@aluno.ifce.edu.br">hillary.rodrigues63@aluno.ifce.edu.br</a> <br>
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=98&color=4b0081&textBg=false&section=footer&reversal=true.png" width="100%" />
