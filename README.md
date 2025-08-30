@@ -28,9 +28,11 @@
 
 
 <h2 align="center"> Entre em Contato Comigo 🌙</h2>
+ <p align="center">
+  <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    
+[![Email](https://img.shields.io/badge/Email-hillary.rodrigues63@aluno.ifce.edu.br-blue?style=flat&logo=gmail&logoColor=white)](mailto:hillary.rodrigues63@aluno.ifce.edu.br)
 
-<p align="center">
-  📧 <strong>Email:</strong> <a href="mailto:hillary.rodrigues63@aluno.ifce.edu.br">hillary.rodrigues63@aluno.ifce.edu.br</a> <br>
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=98&color=4b0081&textBg=false&section=footer&reversal=true.png" width="100%" />
