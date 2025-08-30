@@ -26,7 +26,9 @@
   <img src="https://i.imgur.com/fsdxSkK.png"  width="200"  />
 </p>
 
-<h2 align="center">🌙 Entre em Contato Comigo 🌙</h2>
+
+<h2 align="center"> Entre em Contato Comigo 🌙</h2>
+
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:hillary.rodrigues63@aluno.ifce.edu.br">hillary.rodrigues63@aluno.ifce.edu.br</a> <br>
 
