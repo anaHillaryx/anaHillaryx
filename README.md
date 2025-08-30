@@ -31,7 +31,7 @@
 </p>
 
 
-<h2 align="center"> Entre em Contato Comigo 🌙</h2>
+<h2 align="center"> Contato🌙</h2>
  <p align="center">
   <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     
