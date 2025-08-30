@@ -1,4 +1,4 @@
-<p align="center">
+![study](https://github.com/user-attachments/assets/a3d8d06f-3df2-4893-b406-20e8d0bcde8a)<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4b0081&animation=fadeIn&textBg=false&fontColor=4b0081&fontSize=55&fontAlign=50&descAlign=60&section=header.png"  width="1000"  />
 </p>
 <section>
@@ -19,7 +19,8 @@
 
 
 
-  
+
+
 
 
 <p align="center">
@@ -36,4 +37,22 @@
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=98&color=4b0081&textBg=false&section=footer&reversal=true.png" width="100%" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<p align="center">
+  <img src=" ![Uploading study.gif…]()type=waving&height=110&color=4b0081&animation=fadeIn&textBg=false&fontColor=4b0081&fontSize=55&fontAlign=50&descAlign=60&section=header.png"  width="200"  />
+</p>
 
